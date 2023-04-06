@@ -1,0 +1,34 @@
+.leftBlock{
+    padding: 24px;
+}
+.headingTag{
+    font-size: 2rem;
+}
+.inputsBlock{
+    height: 50px;
+    padding: 12px;
+    outline: none;
+    width: 80%;
+    font-weight: 600;
+    margin-top: 12px;
+    border: 2px solid black;
+}
+.buttonDiv{
+    /* padding: 12px; */
+    margin-top: 12px;
+}
+
+.buttonYellow{
+    font-size: 1.2rem;
+    padding: 6px 22px;
+    font-weight: 600;
+    border: 2px solid black;
+}
+.buttonYellow:hover{ 
+    color: white;
+   background-color: black;
+}
+.appHeader{
+    font-size: 2rem;
+    padding: 24px;
+}
